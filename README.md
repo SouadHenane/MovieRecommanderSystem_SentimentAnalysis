@@ -1,0 +1,5 @@
+![](https://raw.githubusercontent.com/SouadHenane/MovieRecommanderSystem_SentimentAnalysis/main/a1.PNG)
+![](https://raw.githubusercontent.com/SouadHenane/MovieRecommanderSystem_SentimentAnalysis/main/a2.PNG)
+![](https://raw.githubusercontent.com/SouadHenane/MovieRecommanderSystem_SentimentAnalysis/main/a3.PNG)
+![](https://raw.githubusercontent.com/SouadHenane/MovieRecommanderSystem_SentimentAnalysis/main/a4.PNG)
+![](https://raw.githubusercontent.com/SouadHenane/MovieRecommanderSystem_SentimentAnalysis/main/a5.PNG)
